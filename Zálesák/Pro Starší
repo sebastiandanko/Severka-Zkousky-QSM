@@ -1,0 +1,27 @@
+Otázky k zálesákovi pro starší:
+
+// 🔥 Rozdělání ohně za ztížených podmínek
+{ question: "Jaký materiál je nejvhodnější pro podpal ve vlhkém počasí?", answers: ["Březová kůra nebo smolné dřívko (fatwood)", "Čerstvě ulomené větve", "Listí a tráva"] },
+{ question: "Jaký je správný postup při rozdělávání ohně v dešti?", answers: ["Zvolit chráněné místo, připravit suchý podpal a přikrýt oheň odshora", "Zapalovat oheň na větru pro lepší tah", "Použít velké kusy mokrého dřeva k ochraně ohně"] },
+{ question: "Jaký je hlavní účel KPZ při rozdělávání ohně?", answers: ["Pomoci v nouzi – obsahuje např. křesadlo, sirky nebo pevný podpalovač", "Slouží jako zásobník jídla", "Umožňuje rychlé hašení ohně vodou"] },
+{ question: "Co je nejdůležitější při udržení ohně v silném větru?", answers: ["Správná konstrukce ohniště a závětří", "Použití co největšího množství hořlaviny", "Zapalování shora bez přípravy podpalového materiálu"] },
+{ question: "Jaký podpalovací prostředek z KPZ je povoleno použít?", answers: ["Pevný podpalovač (např. kousek PEPA, tuhý líh)", "Benzín nebo petrolej", "Kousek igelitu"] },
+
+// 🌲 Práce se stromem – kácení, zpracování a úklid
+{ question: "Jaký průměr kmene má mít strom určený ke kácení při zkoušce?", answers: ["Přibližně 15 cm", "Do 5 cm", "Více než 30 cm"] },
+{ question: "Kdy je povoleno pokácet strom během zkoušky?", answers: ["Pouze s výslovným povolením vedoucího a majitele pozemku", "Kdykoli podle potřeby tábora", "Pouze pokud máš sekeru a rukavice"] },
+{ question: "Jaký nástroj se používá k pokácení stromu při této zkoušce?", answers: ["Ruční pila nebo sekera", "Motorová pila", "Nůž a klacek"] },
+{ question: "Jaký je správný postup po pokácení stromu?", answers: ["Transport dřeva, jeho zpracování na polena a následný úklid místa", "Oheň z kmene a odchod", "Nechat strom ležet jako úkryt pro zvířata"] },
+{ question: "Proč je důležité uklidit pracoviště po práci se dřevem?", answers: ["Z bezpečnostních a ekologických důvodů", "Aby to lépe vypadalo na fotce", "Aby se lépe rozdělával oheň na zbytcích"] },
+{ question: "Jaká je maximální doba pro dokončení úkolu práce se stromem u dvou chlapců?", answers: ["1 hodina", "1,5 hodiny", "2 hodiny"] },
+{ question: "Jaká je doba pro dokončení úkolu u smíšeného týmu?", answers: ["1,5 hodiny", "1 hodina", "2 hodiny"] },
+{ question: "Jaká je doba pro dokončení úkolu u dvou dívek?", answers: ["2 hodiny", "1 hodina", "1,5 hodiny"] },
+{ question: "Jaký je správný směr kácení stromu?", answers: ["Do předem určeného bezpečného směru s volným prostorem", "Kamkoliv, kde se zrovna nachází více světla", "Do kopce, aby se snáze kutálel"] },
+{ question: "Který z těchto prvků je při práci se sekerou zásadní pro bezpečnost?", answers: ["Používání rukavic, pevné obuvi a dodržování bezpečné vzdálenosti", "Práce bosky pro lepší cit", "Používání sekery s uvolněnou násadou"] },
+
+// ⚙️ Dovednosti a hodnoty zálesáka
+{ question: "Co znamená být skutečně zálesákem podle této zkoušky?", answers: ["Být zručný, zodpovědný a ohleduplný k přírodě", "Umět porazit nejvíc stromů", "Přežít venku za každou cenu bez ohledu na okolí"] },
+{ question: "Co se hodnotí při rozdělávání ohně?", answers: ["Volba místa, příprava materiálu, technika zapálení a udržení ohně", "Použití nejvíce sirky", "Rychlost zapálení za každou cenu"] },
+{ question: "Jaká vlastnost je pro úspěch ve zkoušce klíčová?", answers: ["Soběstačnost a bezpečné zacházení s nástroji", "Síla a rychlost", "Co největší spotřeba dřeva"] },
+{ question: "Jaký je přístup správného zálesáka k přírodním zdrojům?", answers: ["Šetrný a s respektem k přírodě", "Využívá vše, co může", "Ignoruje ekologické dopady"] },
+{ question: "Proč je důležité respektovat vedoucího při zkoušce?", answers: ["Zajišťuje bezpečnost a dohled nad správným průběhem činnosti", "Určuje, kdo vyhraje soutěž", "Rozhoduje o počasí při zkoušce"] },

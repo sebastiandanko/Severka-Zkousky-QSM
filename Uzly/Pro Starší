@@ -1,0 +1,58 @@
+Otázky na uzly pro Starší:
+
+{ question: "K čemu slouží očko?", answers: ["Jako jednoduchý koncový uzel, který brání rozpletení lana", "K přivázání lana k předmětu", "K vytvoření smyčky uprostřed lana"] },
+{ question: "Jaký je hlavní nedostatek jednoduchého očka?", answers: ["Výrazně snižuje pevnost lana", "Špatně drží na mokrém laně", "Nedá se rozvázat"] },
+
+{ question: "K čemu se používá převinuté očko (krvavý uzel)?", answers: ["K zajištění konce lana, které se nemá rozvázat", "K vytvoření posuvné smyčky", "K rychlému rozvázání na dálku"] },
+{ question: "Proč se převinutému očku říká krvavý uzel?", answers: ["Byl používán na důtkách a bičích, aby zraňoval více", "Byl používán při rybaření", "Byl svázán z červeného lana"] },
+
+{ question: "Jaký byl původní účel katova uzlu?", answers: ["Sloužil k věšení odsouzenců", "Používal se ke svazování nákladu", "Byl používán při rybolovu"] },
+{ question: "Jaký je praktický účel katova uzlu dnes?", answers: ["K upevnění lana k předmětům plovoucím ve vodě nebo na břehu", "K vázání dekorací", "K uzavření pytlů"] },
+
+{ question: "K čemu se používá uzel přátelství?", answers: ["Jako ozdobný uzel na šátku, symbolizující dobrý skutek", "K upevnění lana k tyči", "K vytvoření smyčky při lezení"] },
+{ question: "Jaký je symbolický význam uzlu přátelství?", answers: ["Připomíná skautům vykonat dobrý skutek", "Značí přátelství mezi oddíly", "Ukazuje stupeň dovednosti"] },
+
+{ question: "Kde se používá uzel Windsor?", answers: ["Při vázání kravaty, má trojúhelníkový tvar", "Při přivazování lodí", "Při výrobě sítí"] },
+{ question: "Proč je uzel Windsor oblíbený?", answers: ["Vypadá symetricky a vyplňuje prostor mezi límci", "Je nejsilnější ze všech kravatových uzlů", "Lze ho rychle rozvázat zatažením"] },
+
+{ question: "Jaký je účel dělostřeleckého uzlu?", answers: ["K nahození lana na vlečný hák děla nebo k přetahování břemen", "K přivázání plachty k ráhnu", "K zajištění pytle s moukou"] },
+{ question: "Jaký je další význam dělostřeleckého uzlu?", answers: ["Jde o ozdobný a historický uzel využívaný i v heraldice", "Používá se k rybolovu", "Je to typ uzlu pro uvázání kravaty"] },
+
+{ question: "Kdy se používá dvojitá rybářská spojka?", answers: ["Při spojování dvou lan různého průměru v horolezectví", "Při svazování prutů", "Při vytváření smyček na šátku"] },
+{ question: "Proč je dvojitá rybářská spojka spolehlivější než jednoduchá?", answers: ["Má dva závity kolem lana a lépe drží", "Je menší a pevněji utažená", "Používá silnější provaz"] },
+
+{ question: "K čemu se používá liščí smyčka?", answers: ["K připevnění lana k válcovému předmětu", "K uzavření pytle", "K vytvoření posuvného oka"] },
+{ question: "Jaký je typický znak liščí smyčky?", answers: ["Lze ji vázat i uprostřed lana bez volného konce", "Drží jen při zatížení z jedné strany", "Rozvazuje se velmi obtížně"] },
+
+{ question: "Kde se používá dřevařská smyčka?", answers: ["Při stahování a tahání dřeva z lesa", "Při šplhání na lano", "Při uzavírání pytlů"] },
+{ question: "Proč není dřevařská smyčka vhodná pro spouštění břemen?", answers: ["Při proměnlivém zatížení se může uvolnit a sklouznout", "Je příliš pevná a nelze ji rozvázat", "Neudrží těžká břemena"] },
+
+{ question: "K čemu se používá kovbojská smyčka?", answers: ["K uvázání lana ke kůlu, kruhu nebo kbelíku – dá se rozvázat zatažením", "K vytvoření trvalé smyčky", "K upevnění plachty"] },
+{ question: "Proč se kovbojské smyčce říká i požárnický uzel?", answers: ["Protože ji hasiči používali – dá se rozvázat 'na dálku'", "Protože vznikla v Americe", "Protože se používá při hašení ohně"] },
+
+{ question: "K čemu slouží mlynářská smyčka?", answers: ["K uzavření pytle, aby se obsah nevysypal", "K přivázání lodi", "K upevnění lana na skále"] },
+{ question: "Jak se mlynářská smyčka liší od lodní?", answers: ["Má jednoduchý zámek, aby šla snadno rozvázat", "Je pevnější a nelze ji rozvázat", "Má dvojnásobný počet závitů"] },
+
+{ question: "K čemu se používá alpský motýlek?", answers: ["K vytvoření pevné smyčky uprostřed lana, např. pro navázání osoby", "K zakončení lana", "K přivázání k háku"] },
+{ question: "Proč je alpský motýlek oblíbený u horolezců?", answers: ["Je pevný, spolehlivý a po zatížení se dá rozvázat", "Vypadá pěkně na fotkách", "Drží jen v jednom směru tahu"] },
+
+{ question: "Jaký je účel Prusíkova uzlu?", answers: ["K jištění, šplhání po laně a záchraně při pádu", "K přivazování vybavení k batohu", "K svazování prken"] },
+{ question: "Jak Prusík funguje?", answers: ["Při zatížení se sevře a při uvolnění klouže po laně", "Je stále utažený a nelze ho posunout", "Funguje jen na mokrém laně"] },
+
+{ question: "K čemu se používá chirurgický uzel?", answers: ["K pevnému utažení pružných materiálů, např. tkání nebo cév", "K vytvoření ozdobného uzlu", "K spojování dvou lan"] },
+{ question: "V čem se chirurgický uzel liší od ploché spojky?", answers: ["Má dvojité první přetočení, které brání povolení", "Je menší a kulatější", "Má smyčku navíc"] },
+
+{ question: "Kde se používá dvojitá protisměrná osmička?", answers: ["V horolezectví – pro navázání na úvaz nebo jištění", "V rybaření – k utažení vlasců", "Na lodích – ke svazování lan"] },
+{ question: "Proč je osmičkové poutko tak oblíbené?", answers: ["Je spolehlivé, snadno kontrolovatelné a málo poškozuje lano", "Je nejrychlejší uzel na světě", "Lze ho rozvázat zatažením"] },
+
+// 🧵 Práce s lanem – teorie
+{ question: "Jaký je rozdíl mezi statickým a dynamickým lanem?", answers: ["Statické se téměř neprotahuje, dynamické pohlcuje nárazy", "Statické je lehčí, dynamické těžší", "Statické je kratší, dynamické delší"] },
+{ question: "K čemu se používá dynamické lano?", answers: ["K jištění osob při lezení – tlumí pád", "K upevnění nákladu", "K stavbě přístřešku"] },
+{ question: "K čemu se hodí statické lano?", answers: ["K práci ve výškách, slaňování nebo záchraně", "K jištění při sportovním lezení", "K dekorativním účelům"] },
+
+{ question: "Jak správně skladovat lano?", answers: ["Na suchém, chladném místě, chráněné před UV zářením", "Zavěšené na slunci", "Volně pohozené ve vlhku"] },
+{ question: "Proč se lano nesmí skladovat na přímém slunci?", answers: ["UV záření oslabuje vlákna a zkracuje životnost lana", "Protože by se zamotalo", "Protože by změklo"] },
+{ question: "Jak se doporučuje čistit lano?", answers: ["Vlažnou vodou a jemným kartáčem, bez agresivních čisticích prostředků", "V horké vodě s mýdlem", "V pračce na 60 °C"] },
+
+{ question: "K čemu slouží metoda smotání 'horolezecká panenka'?", answers: ["K přenášení lana přes rameno, aby se nezamotalo", "K vytvoření uzlu na konci lana", "K měření délky lana"] },
+{ question: "Proč je důležité správné smotání lana?", answers: ["Zabraňuje zamotání a prodlužuje životnost lana", "Zlepšuje pevnost uzlů", "Dělá lano lehčí"] },

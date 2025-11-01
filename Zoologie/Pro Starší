@@ -1,0 +1,38 @@
+V Zoologii pro starší jsem přidal následující otázky které odpovídají požadavkům na webu a nechal jsem obrázky zvířat ze zkoušky pro mladší:
+
+// 🧠 Rozšířené poznávání živočišných druhů
+{ question: "Jaký druh savce je známý svou schopností klouzavého letu mezi stromy?", answers: ["Večerka létavá", "Plch velký", "Křeček polní"] },
+{ question: "Který z těchto druhů se vyskytuje pouze v horských oblastech Evropy a má charakteristické dlouhé rohy?", answers: ["Kamzík horský", "Srnec obecný", "Daněk evropský"] },
+{ question: "Jak se jmenuje největší suchozemský predátor planety?", answers: ["Medvěd lední", "Tygr ussurijský", "Lev pustinný"] },
+{ question: "Který druh ryby dokáže migrovat z moře do řek, aby se rozmnožil?", answers: ["Losos obecný", "Štika obecná", "Kapr obecný"] },
+
+// 🔬 Detailní znalosti o vybraných druzích
+{ question: "Do které čeledi patří čáp bílý?", answers: ["Čápovití", "Volavkovití", "Kormoránovití"] },
+{ question: "Kde má ježek západní typické zimoviště?", answers: ["V kupě listí nebo kompostu", "V hnízdě na stromě", "V norách pod vodou"] },
+{ question: "Jakou potravu preferuje ledňáček říční?", answers: ["Rybky a vodní bezobratlí", "Plody a semena", "Malé savce"] },
+{ question: "Jakým způsobem se rozmnožuje žába obecná?", answers: ["Kladením vajíček do vody", "Porodem živých mláďat", "Kladením vajec na souš"] },
+{ question: "Který z těchto druhů je významným opylovačem?", answers: ["Čmelák zemní", "Mravenec lesní", "Kobylka zelená"] },
+{ question: "Jakou roli hraje rys ostrovid v ekosystému?", answers: ["Vrcholový predátor regulující populace kopytníků", "Mrchožrout udržující čistotu lesa", "Býložravec spásající mladé stromky"] },
+
+// 📚 Základy systematiky živočichů
+{ question: "Do které třídy patří živočich s vnitřním oplozením, živorodostí a mléčnými žlázami?", answers: ["Savci", "Plazi", "Obojživelníci"] },
+{ question: "Který z následujících znaků je typický pro ptáky?", answers: ["Přítomnost peří", "Vnější kostěná krunýřová schránka", "Metamorfóza"] },
+{ question: "Jaký znak odlišuje pavoukovce od hmyzu?", answers: ["Mají 8 končetin", "Mají křídla", "Mají 3 páry nohou"] },
+{ question: "Která z těchto skupin zahrnuje studenokrevné živočichy s tělem krytým šupinami?", answers: ["Plazi", "Savci", "Ptáci"] },
+
+// 🦉 Pokročilé rozlišování podobných druhů
+{ question: "Jak poznáš kunu lesní od kuny skalní?", answers: ["Kuna lesní má hnědou náprsenku a žije v lese", "Kuna skalní má šedou srst a žije v lese", "Kuna lesní má bílou náprsenku a žije ve městě"] },
+{ question: "Jaký je hlavní rozdíl mezi netopýrem a vrápencem?", answers: ["Vrápenec má nosní přívěsek a jiný způsob echolokace", "Netopýr má delší ocas", "Vrápenec se živí ovocem"] },
+{ question: "Která z těchto sýkor má modrou čepičku?", answers: ["Sýkora modřinka", "Sýkora koňadra", "Sýkora uhelníček"] },
+{ question: "Jak odlišíš myš od rejska?", answers: ["Rejsek má dlouhý špičatý čenich a jí hmyz", "Myš má krátký nos a žije pod vodou", "Rejsek má lysý ocas a žije v norách pod zemí"] },
+{ question: "Jak poznáš vlaštovku od jiřičky?", answers: ["Jiřička má bílé bříško a krátký ocas", "Vlaštovka má bílé hrdlo a krátká křídla", "Jiřička má červené hrdlo a dlouhé ocasní pera"] },
+{ question: "Který z těchto dravců loví hlavně v noci?", answers: ["Sova pálená", "Poštolka obecná", "Káně lesní"] },
+{ question: "Jaký je zásadní rozdíl mezi rohem a parohem?", answers: ["Roh je trvalý, paroh se každoročně shazuje", "Roh se shazuje, paroh je trvalý", "Roh je z keratinu a paroh z kosti pokryté kůží"] },
+
+// 🌍 Ochrana fauny a ohrožené druhy
+{ question: "Který z těchto druhů je v ČR kriticky ohrožený?", answers: ["Rys ostrovid", "Liška obecná", "Srnec obecný"] },
+{ question: "Jaký je hlavní důvod úbytku obojživelníků v Evropě?", answers: ["Ztráta mokřadních biotopů", "Nedostatek potravy", "Zvýšený lov"] },
+{ question: "Jaká forma ochrany se používá pro záchranu ohrožených druhů?", answers: ["Záchranné programy a ochrana biotopů", "Pouze chov v zoo", "Zákaz krmení ve volné přírodě"] },
+{ question: "Který z těchto ptáků je symbolem ochrany přírody v ČR?", answers: ["Orel mořský", "Vlaštovka obecná", "Racek chechtavý"] },
+{ question: "Jaké je nejčastější ohrožení velkých šelem v ČR?", answers: ["Ztráta biotopu a střety s dopravou", "Přirozený nedostatek potravy", "Nadměrné množství kořisti"] },
+{ question: "Jaký je význam ochrany živočišných druhů pro ekosystém?", answers: ["Zachování rovnováhy a biodiverzity", "Zvýšení hustoty populace lidí", "Zmenšení plochy přírodních oblastí"] },

@@ -1,0 +1,49 @@
+Otázky na Astronomii pro Starší 
+
+// 🌌 Poznávačka obrázků – souhvězdí
+{ question: "Co je to za souhvězdí?", answers: ["Orion", "Velký vůz", "Lyra"] },
+{ question: "Co je to za souhvězdí?", answers: ["Velký vůz (součást Velkého medvěda)", "Malý vůz", "Drak"] },
+{ question: "Co je to za souhvězdí?", answers: ["Labuť", "Orel", "Panna"] },
+{ question: "Co je to za souhvězdí?", answers: ["Býk", "Blíženci", "Štír"] },
+{ question: "Co je to za souhvězdí?", answers: ["Štír", "Lev", "Orion"] },
+{ question: "Co je to za souhvězdí?", answers: ["Kasiopeja", "Andromeda", "Perseus"] },
+{ question: "Co je to za souhvězdí?", answers: ["Panna", "Váhy", "Beran"] },
+{ question: "Co je to za souhvězdí?", answers: ["Lev", "Rak", "Ryby"] },
+{ question: "Co je to za souhvězdí?", answers: ["Blíženci", "Býk", "Perseus"] },
+{ question: "Co je to za souhvězdí?", answers: ["Orel", "Labuť", "Štír"] },
+
+// 🌠 Poznávačka – hvězdy a asterismy
+{ question: "Jak se jmenuje tato hvězda (nejjasnější v souhvězdí Velkého psa)?", answers: ["Sírius", "Vega", "Arktur"] },
+{ question: "Jak se jmenuje tato hvězda (v souhvězdí Lyry)?", answers: ["Vega", "Deneb", "Altair"] },
+{ question: "Jak se jmenuje tato hvězda (v souhvězdí Labutě)?", answers: ["Deneb", "Altair", "Spika"] },
+{ question: "Jak se jmenuje tato hvězda (v souhvězdí Pastýře)?", answers: ["Arktur", "Antares", "Aldebaran"] },
+{ question: "Jak se jmenuje tato hvězda (nejjasnější v souhvězdí Panny)?", answers: ["Spika", "Pollux", "Prokyon"] },
+{ question: "Jak se jmenuje tato hvězda (v souhvězdí Býka)?", answers: ["Aldebaran", "Rigel", "Sírius"] },
+{ question: "Jak se jmenuje tato hvězda (nejjasnější v souhvězdí Blíženců)?", answers: ["Pollux", "Kastor", "Altair"] },
+{ question: "Jak se jmenuje tento asterismus tvořený hvězdami Vega, Deneb a Altair?", answers: ["Letní trojúhelník", "Zimní šestiúhelník", "Velký čtverec Pegasa"] },
+{ question: "Jak se jmenuje tento asterismus tvořený hvězdami Capella, Aldebaran, Rigel, Sírius, Prokyon a Pollux?", answers: ["Zimní šestiúhelník", "Letní trojúhelník", "Velký čtverec Pegasa"] },
+{ question: "Jak se jmenuje tato hvězda, která ukazuje na sever?", answers: ["Polárka", "Deneb", "Prokyon"] },
+
+// 🌕 Poznávačka – Měsíc a měsíce planet
+{ question: "Co je to za útvar na Měsíci?", answers: ["Moře klidu (Mare Tranquillitatis)", "Kráter Tycho", "Moře jasu (Mare Serenitatis)"] },
+{ question: "Co je to za útvar na Měsíci?", answers: ["Kráter Tycho", "Kráter Koperník", "Moře dešťů"] },
+{ question: "Co je to za útvar na Měsíci?", answers: ["Kráter Koperník", "Kráter Tycho", "Moře klidu"] },
+{ question: "Jak se jmenuje tento měsíc planety Jupiter s aktivními sopkami?", answers: ["Io", "Europa", "Ganymed"] },
+{ question: "Jak se jmenuje tento ledový měsíc Jupitera s oceánem pod povrchem?", answers: ["Europa", "Io", "Kallisto"] },
+{ question: "Jak se jmenuje tento měsíc Saturnu s hustou atmosférou?", answers: ["Titan", "Rhea", "Enceladus"] },
+{ question: "Jak se jmenuje tento měsíc Saturnu, z jehož povrchu tryská vodní pára?", answers: ["Enceladus", "Titan", "Rhea"] },
+{ question: "Jak se jmenuje jeden z měsíců Marsu?", answers: ["Phobos", "Deimos", "Io"] },
+{ question: "Jak se jmenuje druhý měsíc Marsu?", answers: ["Deimos", "Phobos", "Europa"] },
+{ question: "Jak se nazývají tmavé oblasti na Měsíci viditelné i pouhým okem?", answers: ["Moře (Mare)", "Krátery", "Doly"] },
+
+// 🪐 Poznávačka – planety
+{ question: "Co je to za planetu (nejjasnější na večerní obloze)?", answers: ["Venuše", "Jupiter", "Mars"] },
+{ question: "Co je to za planetu (červená barva, patrné polární čepičky)?", answers: ["Mars", "Merkur", "Saturn"] },
+{ question: "Co je to za planetu (viditelná s prstenci)?", answers: ["Saturn", "Jupiter", "Uran"] },
+{ question: "Co je to za planetu (největší ve Sluneční soustavě)?", answers: ["Jupiter", "Saturn", "Neptun"] },
+{ question: "Co je to za planetu (nejblíže ke Slunci)?", answers: ["Merkur", "Venuše", "Mars"] },
+{ question: "Co je to za planetu (modrozelená, málo viditelná pouhým okem)?", answers: ["Uran", "Neptun", "Saturn"] },
+{ question: "Co je to za planetu (nejvzdálenější v naší soustavě)?", answers: ["Neptun", "Uran", "Saturn"] },
+{ question: "Co je to za planetu (s výraznými pruhy v atmosféře)?", answers: ["Jupiter", "Saturn", "Mars"] },
+{ question: "Co je to za planetu (s hustou atmosférou z oxidu uhličitého)?", answers: ["Venuše", "Merkur", "Mars"] },
+{ question: "Co je to za planetu (má modrý odstín kvůli metanu)?", answers: ["Neptun", "Jupiter", "Saturn"] },

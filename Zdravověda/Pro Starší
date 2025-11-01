@@ -1,0 +1,33 @@
+Otázky použité pro teoretickou část zdravovědy pro starší:
+
+// 🩹 Rozšířené obvazové techniky
+{ question: "Jaký je správný postup při ošetření poraněného oka?", answers: ["Zakrytí obou očí sterilním obvazem a okamžité přivolání lékaře", "Zakrytí pouze poraněného oka a ponechání druhého otevřeného", "Vypláchnutí oka proudem vody bez ohledu na typ poranění"] },
+{ question: "Kdy se používá obvaz nosu?", answers: ["Při krvácení z nosu nebo podezření na zlomeninu nosu", "Pouze při popáleninách obličeje", "Při úpalu a přehřátí organismu"] },
+{ question: "K čemu slouží obvaz hrudníku?", answers: ["K zajištění při poranění žeber nebo podezření na pneumotorax", "K fixaci horní končetiny po zlomenině", "K zastavení krvácení na hlavě"] },
+{ question: "Jak se provádí speciální obvaz ramene pomocí dvou trojcípých šátků?", answers: ["Jeden šátek podpírá paži, druhý fixuje k tělu", "Jeden šátek slouží jako tlakový obvaz, druhý na hlavu", "Jeden šátek se používá pouze k připevnění rukávu"] },
+
+// 🔥 První pomoc u závažných stavů, úrazů a otrav
+{ question: "Jaký je první krok při ošetření popáleniny?", answers: ["Chlazení postiženého místa čistou vodou alespoň 10–20 minut", "Natření olejem nebo mastičkou", "Okamžité odstranění oděvu z rány i když je přilepený"] },
+{ question: "Jak správně ošetřit omrzlinu?", answers: ["Postupné zahřívání tělesným teplem, ne masírování ani horkou vodou", "Tření sněhem pro lepší prokrvení", "Rychlé ponoření do horké vody"] },
+{ question: "Jaká je první pomoc při otravě houbami?", answers: ["Okamžité volání 155 nebo Toxikologického informačního střediska, zachování zvratků pro analýzu", "Podání mléka k neutralizaci jedu", "Vyvolání zvracení bez ohledu na stav postiženého"] },
+{ question: "Jak rozpoznáš otravu oxidem uhelnatým?", answers: ["Závratě, bolest hlavy, nevolnost a ztráta vědomí v uzavřeném prostoru", "Náhlé zrudnutí kůže a bolest na hrudi", "Silné pocení a bušení srdce při námaze"] },
+{ question: "Jak postupovat při podezření na šok?", answers: ["Uložit postiženého do protišokové polohy a zajistit teplo", "Podat mu hodně tekutin", "Zvednout mu hlavu a chladit čelo"] },
+{ question: "Jak zastavit masivní vnější krvácení?", answers: ["Přímý tlak v ráně a použití tlakového obvazu", "Omotání místa látkou bez tlaku", "Podvázání končetiny škrtidlem bez ohledu na čas"] },
+{ question: "Kdy se používá škrtidlo?", answers: ["Pouze v krajních případech, kdy selže tlakový obvaz", "Při drobném krvácení z prstu", "Vždy při zlomenině končetiny"] },
+{ question: "Jak poznáš otřes mozku?", answers: ["Ztráta vědomí, nevolnost, bolest hlavy, zvracení, porucha paměti", "Změna barvy kůže a pocit chladu", "Zvýšená teplota a sucho v ústech"] },
+{ question: "Jak se zachováš, když někdo zvrací v bezvědomí?", answers: ["Otočím ho na bok, aby se nezadusil zvratky", "Položím ho na záda a podložím hlavu", "Podám mu vodu, aby se vyčistil žaludek"] },
+{ question: "Jak se poskytuje první pomoc při poranění kloubu?", answers: ["Znehybnění, chlazení a elevace končetiny – princip RICE", "Masáž kloubu a rozhýbání pro lepší prokrvení", "Přímé zatížení končetiny pro ověření stability"] },
+
+// ❤️ Život zachraňující úkony
+{ question: "Jaký je první krok při zástavě dechu?", answers: ["Zkontrolovat dýchací cesty a jejich průchodnost", "Podat napít vody", "Zvednout nohy postiženého"] },
+{ question: "Jaká je správná frekvence stlačení hrudníku při KPR u dospělého?", answers: ["100–120 stlačení za minutu", "60–80 stlačení za minutu", "140–160 stlačení za minutu"] },
+{ question: "V jakém poměru se provádí stlačení a vdechy při resuscitaci dospělého?", answers: ["30 stlačení : 2 vdechy", "15 stlačení : 1 vdech", "50 stlačení : 5 vdechů"] },
+{ question: "Jak hluboko se má stlačovat hrudník u dospělého při KPR?", answers: ["5–6 cm", "2–3 cm", "8–10 cm"] },
+{ question: "Co uděláš, pokud postižený nereaguje a nedýchá normálně?", answers: ["Zahájím KPR a volám 155", "Dám mu napít vody", "Počkám, zda se sám probere"] },
+
+// 🧰 Další důležité znalosti
+{ question: "Co musí obsahovat dobře vybavená osobní lékárnička?", answers: ["Obvazy, náplasti, trojcípý šátek, rukavice, dezinfekci, nůžky, izotermickou fólii", "Pouze náplasti a obvaz", "Teploměr a kapky do očí"] },
+{ question: "Kdy se používá stabilizovaná poloha na boku?", answers: ["U člověka v bezvědomí, který dýchá", "Při zástavě dechu", "Při zlomenině dolní končetiny"] },
+{ question: "Jaká poloha je vhodná při šoku?", answers: ["Poloha se zvednutýma nohama (autotransfuzní)", "Sed s hlavou mezi koleny", "Stoj s oporou o zeď"] },
+{ question: "Jaká poloha je vhodná při dušnosti nebo srdečních obtížích?", answers: ["Polosed s oporou zad", "Leh na břiše", "Stabilizovaná poloha na boku"] },
+{ question: "K čemu slouží izotermická fólie?", answers: ["K ochraně před podchlazením nebo přehřátím", "K zastavení krvácení", "K fixaci zlomeniny"] },

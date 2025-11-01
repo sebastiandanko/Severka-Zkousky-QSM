@@ -1,0 +1,33 @@
+Otázky použité pro teoretickou část zdravovědy pro mladší:
+    
+// 🩹 Základní obvazové techniky
+{ question: "K čemu slouží trojcípý šátek ve zdravovědě?", answers: ["K fixaci a přidržení poraněné části těla", "K otírání potu z čela", "Jako náhrada za obvaz prstu"] },
+{ question: "Jak se správně používá šátek při poranění hlavy?", answers: ["Šátek se přiloží přes temeno a uváže pod bradou", "Omotá se kolem krku a čela", "Přiloží se pouze na ránu bez uvázání"] },
+{ question: "Jak se fixuje poraněná ruka pomocí trojcípého šátku?", answers: ["Ruka se zvedne do šátku a uváže kolem krku", "Ruka se pevně sváže k tělu", "Šátek se uváže kolem zápěstí"] },
+{ question: "Na co se nejčastěji používá obinadlový obvaz?", answers: ["Na krytí a fixaci poraněných částí těla", "Na chlazení ran", "Jako náhrada za šátek"] },
+{ question: "Jak se správně obvazuje koleno obinadlem?", answers: ["Křížovým obvazem, aby dobře držel při pohybu", "Přímým obvazem bez překrytí", "Volně položeným pruhem látky"] },
+{ question: "K čemu slouží obvaz prstu?", answers: ["K zastavení krvácení a ochraně rány", "K fixaci celé ruky", "K chlazení otoku"] },
+
+// 🚑 První pomoc v běžných situacích
+{ question: "Jaký je první krok při podezření na úpal nebo úžeh?", answers: ["Přesunout postiženého do stínu a ochladit ho", "Dát mu teplý čaj", "Nechat ho ležet na slunci a přikrýt"] },
+{ question: "Jak postupuješ při pokousání zvířetem?", answers: ["Ránu vyčistit, překrýt sterilním obvazem a vyhledat lékaře", "Ránu přikrýt a nechat být", "Použít dezinfekci s alkoholem a nevyhledávat pomoc"] },
+{ question: "Co uděláš po bodnutí hmyzem, pokud není známá alergie?", answers: ["Místo ochladím a sleduji reakci", "Vysaju místo a přelepím náplastí", "Nechám bez ošetření"] },
+{ question: "Jak se zachováš při uštknutí zmijí?", answers: ["Znehybním končetinu, uklidním postiženého a volám pomoc", "Rozříznu ránu a vysaju jed", "Přiložím led přímo na ránu"] },
+{ question: "Jak správně odstraníš klíště?", answers: ["Pomalu a opatrně kývavým pohybem pinzetou", "Rychle ho vytrhnu prsty", "Potřu ho olejem a čekám, až odpadne"] },
+{ question: "Co uděláš při podezření na zlomeninu?", answers: ["Znehybním poraněnou končetinu pomocí šátků nebo větví", "Pokouším se ji narovnat", "Přiložím led a nechám být"] },
+{ question: "Jak reaguješ, když někdo omdlí?", answers: ["Zvednu mu nohy, uvolním oděv a kontroluji dýchání", "Poliju ho studenou vodou", "Přesunu ho do sedu a podám pití"] },
+
+// ☎️ Přivolání pomoci a tísňová čísla
+{ question: "Jaké je jednotné evropské číslo tísňového volání?", answers: ["112", "150", "155"] },
+{ question: "Které číslo voláš při požáru?", answers: ["150", "155", "158"] },
+{ question: "Na které číslo voláš při dopravní nehodě se zraněním?", answers: ["155", "158", "150"] },
+{ question: "Kdy voláš Policii ČR?", answers: ["Při podezření na trestný čin nebo ohrožení bezpečnosti", "Když někdo omdlí", "Při úpalu nebo úžehu"] },
+{ question: "Co musíš sdělit operátorovi při volání na tísňovou linku?", answers: ["Kde jsi, co se stalo, kolik je zraněných a jaká jsou zranění", "Pouze své jméno a věk", "Jen to, že někdo potřebuje pomoc"] },
+
+// 🧍‍♂️ Základy transportu zraněného
+{ question: "K čemu slouží Rautekův úchop?", answers: ["K bezpečnému přenesení zraněného z nebezpečného místa", "K masáži zad", "K podvázání rány"] },
+{ question: "Kdy můžeš přenášet zraněného?", answers: ["Jen když mu nehrozí další nebezpečí a jinak to nejde", "Vždy, i bez ohledu na riziko", "Nikdy, i když je v ohrožení"] },
+{ question: "Jaký je hlavní cíl při přenášení zraněného?", answers: ["Zajistit bezpečnost zraněného i zachránce", "Přenést ho co nejrychleji", "Nenechat ho mluvit"] },
+{ question: "Jak se dají vyrobit improvizovaná nosítka?", answers: ["Z bund, větví nebo dek", "Pouze z dřeva a hřebíků", "Ze silného lana a kamene"] },
+{ question: "Kdy použiješ stabilizovanou polohu?", answers: ["Když je postižený v bezvědomí, ale dýchá", "Když má zlomenou ruku", "Když je v šoku a nekomunikuje"] },
+{ question: "Co bys nikdy neměl dělat při přenášení zraněného?", answers: ["Taháním nebo škubáním s tělem zraněného", "Použít více lidí při přenosu", "Přikrýt ho dekou"] },

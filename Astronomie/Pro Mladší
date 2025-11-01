@@ -1,0 +1,62 @@
+Otázky na Astronomii pro Mladší
+
+// 🖼️ Poznávání souhvězdí
+{ question: "Co je toto za souhvězdí?", answers: ["Velký vůz (součást Velké medvědice)", "Malý vůz", "Kasiopeja"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Malý vůz (součást Malého medvěda)", "Velký vůz", "Pegas"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Kasiopeja", "Labuť", "Lev"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Labuť (Cygnus)", "Pegas", "Orel"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Orel (Aquila)", "Delfín", "Lyra"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Lyra", "Labuť", "Blíženci"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Letní trojúhelník", "Velký vůz", "Honící se psi"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Pegas", "Delfín", "Lev"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Blíženci", "Lev", "Labuť"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Lev", "Blíženci", "Pegas"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Delfín", "Kasiopeja", "Honící se psi"] },
+{ question: "Co je toto za souhvězdí?", answers: ["Honící se psi", "Velká medvědice", "Pegas"] },
+
+// 🌌 Astronomie – mladší
+
+// ⭐ Orientace na obloze
+{ question: "Jak se jmenuje hvězda, podle které poznáme sever?", answers: ["Polárka", "Vega", "Sirius"] },
+{ question: "Ve kterém souhvězdí najdeme Polárku?", answers: ["Malý medvěd", "Velká medvědice", "Labutě"] },
+{ question: "Jak se jmenuje známá část souhvězdí Velké medvědice?", answers: ["Velký vůz", "Malý vůz", "Letní trojúhelník"] },
+{ question: "Jak poznáme směr k severu podle Velkého vozu?", answers: ["Prodlužujeme pomyslnou spojnici zadních kol vozu směrem k Polárce", "Hledáme nejjasnější hvězdu na východě", "Podíváme se, kam směřuje nejdelší část vozu"] },
+{ question: "Jak vypadá souhvězdí Kasiopeja?", answers: ["Má tvar písmene W nebo M", "Tvoří kruh kolem Polárky", "Vypadá jako trojúhelník"] },
+
+// 🔺 Letní trojúhelník
+{ question: "Které hvězdy tvoří Letní trojúhelník?", answers: ["Vega, Deneb a Altair", "Polárka, Vega a Sirius", "Rigel, Deneb a Betelgeuse"] },
+{ question: "Do kterých souhvězdí patří hvězdy Letního trojúhelníku?", answers: ["Lyra, Labuť a Orel", "Velký vůz, Lev a Blíženci", "Kasiopeja, Delfín a Pegas"] },
+{ question: "Kdy je na obloze nejlépe vidět Letní trojúhelník?", answers: ["V létě", "Na jaře", "V zimě"] },
+
+// 🌠 Naše družinová a oddílová souhvězdí (obecně)
+{ question: "Jaké souhvězdí tvoří sedm hvězd a připomíná malý vozík?", answers: ["Malý vůz", "Velký vůz", "Pegas"] },
+{ question: "Jaké souhvězdí připomíná velký vozík s dlouhou ojí?", answers: ["Velký vůz", "Honící se psi", "Blíženci"] },
+{ question: "Jak se jmenuje souhvězdí, které znázorňuje dva bratry držící se za ruce?", answers: ["Blíženci", "Lev", "Delfín"] },
+{ question: "Které souhvězdí zobrazuje velkého lva se srpem hvězd jako hřívou?", answers: ["Lev", "Pegas", "Labutě"] },
+{ question: "Které souhvězdí na obloze připomíná kříž a představuje ptáka?", answers: ["Labuť", "Orel", "Delfín"] },
+{ question: "Jaké souhvězdí je pojmenováno po bájném okřídleném koni?", answers: ["Pegas", "Lev", "Kasiopeja"] },
+{ question: "Jaké souhvězdí má tvar malého trojúhelníku poblíž Letního trojúhelníku?", answers: ["Delfín", "Blíženci", "Honící se psi"] },
+{ question: "Které souhvězdí má v názvu zvířata, která běží za sebe?", answers: ["Honící se psi", "Lev", "Malý vůz"] },
+
+// ☀️ Sluneční soustava
+{ question: "Jak se jmenuje naše hvězda?", answers: ["Slunce", "Polárka", "Vega"] },
+{ question: "Která planeta je nejblíže ke Slunci?", answers: ["Merkur", "Venuše", "Země"] },
+{ question: "Jaké je správné pořadí planet od Slunce?", answers: ["Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran, Neptun", "Země, Mars, Jupiter, Saturn, Uran, Neptun, Merkur, Venuše", "Merkur, Země, Mars, Jupiter, Saturn, Uran, Neptun, Pluto"] },
+{ question: "Která planeta je největší v naší soustavě?", answers: ["Jupiter", "Saturn", "Země"] },
+{ question: "Která planeta je známá svými prstenci?", answers: ["Saturn", "Uran", "Mars"] },
+{ question: "Na které planetě žijeme?", answers: ["Země", "Mars", "Venuše"] },
+{ question: "Jak se jmenuje přirozená družice Země?", answers: ["Měsíc", "Io", "Europa"] },
+{ question: "Jak se jmenuje naše galaxie?", answers: ["Mléčná dráha", "Andromeda", "Orionova ruka"] },
+{ question: "Co je Slunce?", answers: ["Hvězda", "Planeta", "Měsíc"] },
+{ question: "Jak se nazývá naše Sluneční soustava?", answers: ["Sluneční soustava", "Mléčná galaxie", "Orionova soustava"] },
+
+// 🌌 Základní pojmy a zajímavosti
+{ question: "Co je souhvězdí?", answers: ["Skupina hvězd tvořící tvar, který lidé pojmenovali", "Jedna velmi jasná hvězda", "Planeta, která svítí v noci"] },
+{ question: "Co je galaxie?", answers: ["Obrovská skupina hvězd, plynů a prachu", "Souhvězdí v naší soustavě", "Družice obíhající Zemi"] },
+{ question: "Jak se nazývá jev, kdy padá 'hvězda' na obloze?", answers: ["Meteorit (meteoroid)", "Kometa", "Družice"] },
+{ question: "Co je kometa?", answers: ["Těleso z ledu a prachu, které má ohon, když se přiblíží ke Slunci", "Planeta s prstenci", "Malý měsíc"] },
+{ question: "Jak se nazývá těleso, které obíhá kolem planety?", answers: ["Družice", "Hvězda", "Galaxie"] },
+{ question: "Jak se říká oběhu Země kolem Slunce?", answers: ["Rok", "Den", "Měsíc"] },
+{ question: "Jak dlouho trvá, než Země oběhne Slunce?", answers: ["Přibližně 1 rok", "1 měsíc", "1 den"] },
+{ question: "Jak se nazývá oběh Měsíce kolem Země?", answers: ["Měsíc", "Rok", "Den"] },
+{ question: "Kdy vidíme nejlépe hvězdy?", answers: ["V noci, když je jasno a bez měsíčního svitu", "Za dne při slunci", "Při bouřce"] },

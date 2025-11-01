@@ -1,0 +1,32 @@
+Otázky k uzlům pro mladší:
+
+{ question: "K čemu slouží plochá spojka?", answers: ["Ke spojení dvou stejně silných provazů nebo šátků", "K vytvoření pevné smyčky", "K připevnění lana ke kůlu"] },
+{ question: "Kdy se nejčastěji používá plochá spojka?", answers: ["Při vázání šátků nebo spojování stejných provazů", "Při zkracování lana", "Při přivazování k tyči"] },
+
+{ question: "K čemu se používá rybářská spojka?", answers: ["Ke spojení dvou tenkých provázků nebo vlasců", "K vytvoření oka na konci lana", "K připevnění lana ke stromu"] },
+{ question: "Proč se rybářská spojka nazývá právě takto?", answers: ["Protože ji používají rybáři na spojení vlasců", "Protože připomíná tvar ryby", "Protože se používá při vázání sítí"] },
+
+{ question: "K čemu slouží škotová spojka?", answers: ["Ke spojení provazů různé tloušťky", "K uzavření smyčky", "K vytvoření zkracovačky"] },
+{ question: "Kde se škotová spojka často používá?", answers: ["Na lodích a v tábornictví při přivazování plachet", "Při výrobě náramků", "Při svazování dříví"] },
+
+{ question: "Na co se používá dračí smyčka?", answers: ["K vytvoření pevného očka na konci lana", "K přivázání provazu ke stromu", "Ke spojení dvou provazů"] },
+{ question: "Proč je dračí smyčka oblíbená?", answers: ["Drží pevně, ale dá se snadno rozvázat i po zatížení", "Je nejrychlejší na uvázání", "Je dekorativní a hezky vypadá"] },
+
+{ question: "K čemu slouží zkracovačka?", answers: ["Ke zkrácení příliš dlouhého provazu bez stříhání", "K vytvoření pevné smyčky", "K přivázání lana ke kůlu"] },
+{ question: "Kdy se zkracovačka hodí použít?", answers: ["Když nechceš provaz přestřihnout, ale potřebuješ ho zkrátit", "Když chceš vytvořit smyčku", "Když potřebuješ spojit dvě lana"] },
+
+{ question: "Na co se používá lodní smyčka?", answers: ["K připevnění lana ke kůlu, tyči nebo stromu", "K vytvoření smyčky na konci lana", "Ke spojení dvou lan"] },
+{ question: "Proč se jí říká lodní smyčka?", answers: ["Protože se používala při přivazování lodí k molu", "Protože se používá jen na vodě", "Protože připomíná tvar lodě"] },
+
+{ question: "K čemu slouží osmička jednoduchá?", answers: ["K vytvoření uzlu na konci lana proti vyklouznutí", "K připevnění lana ke stromu", "Ke spojení dvou provazů"] },
+{ question: "Proč se osmička nazývá právě takto?", answers: ["Protože má tvar čísla osm", "Protože se váže osmkrát", "Protože drží osm kilo váhy"] },
+
+{ question: "Který z těchto uzlů se používá ke spojení dvou stejně silných lan?", answers: ["Plochá spojka", "Rybářská spojka", "Lodní smyčka"] },
+{ question: "Který uzel je vhodný ke spojení dvou různě silných lan?", answers: ["Škotová spojka", "Plochá spojka", "Osmička"] },
+{ question: "Který uzel vytvoří pevné očko na konci lana?", answers: ["Dračí smyčka", "Osmička", "Rybářská spojka"] },
+{ question: "Který uzel zkrátí příliš dlouhé lano bez stříhání?", answers: ["Zkracovačka", "Škotová spojka", "Lodní smyčka"] },
+{ question: "Který uzel použiješ, když chceš lano přivázat ke stromu?", answers: ["Lodní smyčka", "Plochá spojka", "Zkracovačka"] },
+{ question: "Který uzel zabrání, aby konec lana vyklouzl z otvoru?", answers: ["Osmička", "Dračí smyčka", "Rybářská spojka"] },
+{ question: "Který uzel se často používá při rybaření?", answers: ["Rybářská spojka", "Lodní smyčka", "Škotová spojka"] },
+{ question: "Který uzel se nejvíce používá na lodích a při práci s plachtami?", answers: ["Škotová spojka", "Plochá spojka", "Dračí smyčka"] },
+{ question: "Který uzel se používá, když chceš spojit dva šátky?", answers: ["Plochá spojka", "Zkracovačka", "Osmička"] },

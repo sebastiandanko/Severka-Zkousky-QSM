@@ -1,0 +1,37 @@
+Otázky k zálesákovi pro mladší:
+
+// 🪓 Praktická část – příprava dřeva a práce s nástroji
+{ question: "Kolik polen musíš nařezat a naštípat při zkoušce Zálesák – mladší?", answers: ["4 polena", "2 polena", "6 polen"] },
+{ question: "Kolik času máš na přípravu dřeva (řezání a štípání)?", answers: ["15 minut", "10 minut", "30 minut"] },
+{ question: "Kolik polen musíte nařezat ve dvojici při řezání dvoumužnou pilou?", answers: ["8 polen (4 na každého)", "6 polen (3 na každého)", "10 polen (5 na každého)"] },
+{ question: "Kdo může být tvým partnerem při řezání dřeva?", answers: ["Kamarád nebo starší člen, který už zkoušku má", "Libovolný dospělý kolemjdoucí", "Nikdo – musíš pracovat sám"] },
+{ question: "Proč je při práci se sekerou důležitá bezpečnost?", answers: ["Aby nedošlo ke zranění sebe ani ostatních", "Aby práce trvala kratší dobu", "Aby dřevo lépe hořelo"] },
+
+// 🔥 Praktická část – rozdělání ohně
+{ question: "Kolik zápalek smíš maximálně použít k zapálení ohně?", answers: ["3 zápalky", "5 zápalek", "1 zápalku"] },
+{ question: "Jak dlouho musí oheň samostatně hořet, aby se pokus počítal jako úspěšný?", answers: ["Minimálně 5 minut", "Minimálně 2 minuty", "Až do úplného shoření dřeva"] },
+{ question: "Co můžeš použít jako podpal?", answers: ["Suchou trávu, březovou kůru, drobné větvičky a jehličí", "Mokré listí a bláto", "Plastové obaly a odpadky"] },
+{ question: "Co musíš udělat po skončení rozdělávání ohně?", answers: ["Pečlivě uklidit pracoviště a ohniště", "Nechat oheň dohořet bez dozoru", "Zakopat oheň pod zem"] },
+{ question: "Kdy je zapalování ohně považováno za bezpečné?", answers: ["Když máš připravené ohniště a kontroluješ plamen", "Když fouká silný vítr", "Když používáš benzín na podpal"] },
+
+// 🏕️ Typy ohňů
+{ question: "K čemu je vhodný oheň typu pyramida?", answers: ["Na vaření a ohřev jídla", "Na slavnostní táborák", "Na sušení oblečení"] },
+{ question: "Jak se staví oheň typu pagoda?", answers: ["Křížením silnějších polen do tvaru věže", "Kuželovitě ze slabých větviček", "V jedné řadě vedle sebe"] },
+{ question: "Jaký typ ohně se hodí, když chceš dlouho udržovat teplo?", answers: ["Hranice", "Pyramida", "Direktorián"] },
+{ question: "Na co se používá oheň typu direktorián?", answers: ["Na rychlé vaření v malém ohništi", "Na osvětlení okolí", "Na signalizaci z dálky"] },
+{ question: "Proč je důležité znát různé typy ohňů?", answers: ["Každý má jiný účel – vaření, teplo, světlo nebo slavnost", "Aby se dalo zapálit co nejvíc dřeva", "Aby byl oheň větší a silnější"] },
+
+// 🧯 Bezpečnost a hašení ohně
+{ question: "Jaké je hlavní pravidlo bezpečnosti u ohně?", answers: ["Nikdy nenechávat oheň bez dozoru", "Přikládat velké kusy dřeva hned po zapálení", "Přeskakovat oheň pro zábavu"] },
+{ question: "Kde je vhodné zakládat oheň?", answers: ["Na bezpečném místě, dál od stromů, suché trávy a stanů", "Pod větvemi stromu", "Na louce plné suché trávy"] },
+{ question: "Co uděláš, když začne foukat silný vítr u rozdělaného ohně?", answers: ["Oheň ihned uhasím nebo chráním před větrem", "Přiložím víc dřeva, aby neuhasl", "Ignoruji to, dokud nezačne kouřit"] },
+{ question: "Jak se správně hasí oheň?", answers: ["Vodou nebo hlínou, až přestanou doutnat uhlíky", "Přikrytím plastem", "Přesypáním suchým listím"] },
+{ question: "Jak ověříš, že je oheň úplně uhašený?", answers: ["Když popel a uhlíky nejsou horké na dotek", "Když už nekouří", "Když voda odteče z ohniště"] },
+{ question: "Proč je důležité uklidit ohniště po skončení?", answers: ["Aby po tobě nezůstaly odpadky a popel neohrozil přírodu", "Aby to lépe vypadalo na fotce", "Aby se dalo hned znovu zapálit"] },
+
+// 📘 Obecné znalosti a zodpovědnost
+{ question: "Co znamená pojem 'životaschopný oheň'?", answers: ["Oheň, který sám a stabilně hoří alespoň 5 minut", "Oheň zapálený jednou zápalkou", "Oheň s vysokými plameny"] },
+{ question: "Proč má zkouška Zálesák dvě části?", answers: ["Protože ověřuje praktické dovednosti i znalosti o ohních", "Aby trvala déle", "Aby se účastníci vystřídali"] },
+{ question: "Jak dlouho má platnost každá část zkoušky?", answers: ["Jeden rok", "Šest měsíců", "Dva roky"] },
+{ question: "Co musíš udělat, pokud jsi splnil jen praktickou část?", answers: ["Do jednoho roku splnit i teoretickou část", "Zkoušku opakovat celou", "Požádat o novou zápalku"] },
+{ question: "Proč je důležité být zodpovědný při práci s ohněm?", answers: ["Protože i malá nepozornost může způsobit požár", "Protože oheň rychle vyhasne", "Protože to vypadá lépe před vedoucím"] },
